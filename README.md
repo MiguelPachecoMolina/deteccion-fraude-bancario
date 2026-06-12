@@ -1,7 +1,7 @@
 # 🏦 Detección de Fraude en Transacciones Bancarias mediante Técnicas de Agrupamiento y Detección de Anomalías
 
 ## 📝 Descripción del Proyecto
-La detección de fraude bancario enfrenta el reto del alto desbalance entre transacciones legítimas y fraudulentas[cite: 1]. Este proyecto propone un enfoque híbrido que integra aprendizaje supervisado y no supervisado para mejorar la identificación de fraudes en datos de tarjetas de crédito[cite: 1]. Se busca identificar transacciones fraudulentas de manera temprana y precisa, minimizando las pérdidas económicas y reduciendo la cantidad de falsos positivos que generan sobrecarga operativa[cite: 1].
+La detección de fraude bancario enfrenta el reto del alto desbalance entre transacciones legítimas y fraudulentas. Este proyecto propone un enfoque híbrido que integra aprendizaje supervisado y no supervisado para mejorar la identificación de fraudes en datos de tarjetas de crédito. Se busca identificar transacciones fraudulentas de manera temprana y precisa, minimizando las pérdidas económicas y reduciendo la cantidad de falsos positivos que generan sobrecarga operativa.
 
 ## 👥 Equipo de Trabajo
 Este proyecto de investigación y modelado fue desarrollado colaborativamente por:
